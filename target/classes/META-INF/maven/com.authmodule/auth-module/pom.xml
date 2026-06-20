@@ -108,5 +108,6 @@
                 </configuration>
             </plugin>
         </plugins>
+         <finalName>auth-module</finalName>
     </build>
 </project>
